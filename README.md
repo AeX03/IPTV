@@ -65,6 +65,8 @@
 
 </details>
 
+PS : the advantage of premium is that you go first on the broadcast of classics streaming.
+
 
 ## Pay
 
