@@ -7,8 +7,8 @@
 
 <div  align="center">
 
-[![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/AeX03/TornadoCash-VPN)
-[![version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/AeX03/TornadoCash-VPN)
+[![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/AeX03/IPTV)
+[![version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/AeX03/IPTV)
 [![Discord](https://img.shields.io/discord/979349329909264414?label=Discord&logo=Discord)](http://discord.gg/xpaxKBEx9t)
 <br>
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-accepted%20payment-red)](https://img.shields.io/badge/-bc1qsa9hpku5un9uksf8eg6u6qrukyyvddu07e8kmj-lightgrey)
@@ -18,7 +18,7 @@
 [![eLys](https://img.shields.io/badge/Site-eLys-pink.svg)](https://eLysiane.eu/)
 [![Tornado](https://img.shields.io/badge/NOVA-Tornado%20Cash-brightgreen.svg)](https://img.shields.io/badge/-available%20/09/2022-lightgrey)
 <br>
-[![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=AeX03.TornadoCash-VPN&left_color=gray&right_color=purple&left_text=New%20Visitors%20Today)](https://github.com/AeX03)
+[![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=AeX03.IPTV&left_color=gray&right_color=purple&left_text=New%20Visitors%20Today)](https://github.com/AeX03)
 <br>
 <br>
 [![SELLIX TO BUY](https://img.shields.io/badge/MY%20SELLIX%20SHOP%20TO%20BUY-pink.svg)](https://elys.mysellix.io/)
