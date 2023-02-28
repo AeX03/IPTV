@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/AeX03/IPTV/blob/main/" alt="Image" height="420" width="600" />
+<img src="https://raw.githubusercontent.com/AeX03/IPTV/main/shopitem.webp" alt="Image" height="420" width="600" />
 </p align="center">
 
 # IPTV
