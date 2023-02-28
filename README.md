@@ -67,6 +67,11 @@
 
 PS : the advantage of premium is that you go first on the broadcast of classics streaming.
 
+## Download APP
+
+ - [For Android/BoxTV APK](https://github.com/AeX03/IPTV/releases/tag/iptv)
+ - [For IOS iPhone APP](https://apps.apple.com/fr/app/smarters-player-lite/id1628995509)
+
 
 ## Pay
 
